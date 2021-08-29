@@ -1,1 +1,25 @@
+{
+  "title": "Azur Lane: Queen's Orders",
+  "description": "Due to severe fatigue and exhaustion, the Azur Lane's commander collapses and enters a coma. To prevent unrest and anxiety from breaking out, the secretary ship Queen Elizabeth decides to fill in for the commander in secret alongside her longtime friend Warspite and a select few.
 
+However, Queen Elizabeth soon realizes that taking on the mantle of leader is far from an easy task. As she strives to make sure everything goes smoothly while keeping the truth concealed, the situation gradually worsens, with more shipgirls beginning to suspect the commander's whereabouts.",
+  "artist": "Tsuchii",
+  "author": "Tsuchii",
+  "cover": "https://i.imgur.com/Mb699bL.jpg",
+  "chapters": {
+        "1": {
+      "title": "Chapter 1",
+      "volume": "1",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/Yuo6doW/"
+      },
+      "last_updated": "1616368746"
+    },
+        "2": {
+      "title": "Chapter 2",
+      "volume": "1",
+      "groups": {
+        "Skeleton Warriors": "/proxy/api/imgur/chapter/Jvzn9lG/"
+      },
+      "last_updated": "1616368746"
+    }
