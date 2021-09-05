@@ -5,69 +5,101 @@
    "author":"Tsuchii",
    "cover":"https://i.imgur.com/Mb699bL.jpg",
    "chapters":{
-      "1":{
-         "title":"Chapter 1",
+      "01":{
+         "title":"Chapter 01",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/Yuo6doW/"
          },
          "last_updated":"1630265742"
       },
-      "2":{
-         "title":"Chapter 2",
+      "02":{
+         "title":"Chapter 02",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/Jvzn9lG/"
          },
          "last_updated":"1630265742"
       },
-      "3":{
-         "title":"Chapter 3",
+      "03":{
+         "title":"Chapter 03",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/QoxuqAq/"
          },
          "last_updated":"1630265742"
       },
-      "4":{
-         "title":"Chapter 4",
+      "04":{
+         "title":"Chapter 04",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/AK8xfm8/"
          },
          "last_updated":"1630265742"
       },
-      "5":{
-         "title":"Chapter 5",
+      "05":{
+         "title":"Chapter 05",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/gZt9FmG/"
          },
          "last_updated":"1630265742"
       },
-      "6":{
-         "title":"Chapter 6",
+      "06":{
+         "title":"Chapter 06",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/64MhNMD/"
          },
          "last_updated":"1630265742"
       },
-      "7":{
-         "title":"Chapter 7",
+      "07":{
+         "title":"Chapter 07",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/0WcHWXj/"
          },
          "last_updated":"1630265742"
       },
-      "8":{
-         "title":"Chapter 8",
+      "08":{
+         "title":"Chapter 08",
          "volume":"1",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/TX8lHl5/"
          },
          "last_updated":"1630265742"
+      },
+      "09":{
+         "title":"Chapter 09",
+         "volume":"1",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/AamzbHh/"
+         },
+         "last_updated":"1630861186"
+      },
+      "10":{
+         "title":"Chapter 10",
+         "volume":"1",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/SXvRWtO/"
+         },
+         "last_updated":"1630861186"
+      },
+      "11":{
+         "title":"Chapter 11",
+         "volume":"1",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/2POb13F/"
+         },
+         "last_updated":"1630861186"
+      },
+      "12":{
+         "title":"Chapter 12",
+         "volume":"1",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/S8jJlL7/"
+         },
+         "last_updated":"1630861186"
       }
    }
 }
