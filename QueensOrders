@@ -100,6 +100,38 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/S8jJlL7/"
          },
          "last_updated":"1630861186"
+      },
+      "85":{
+         "title":"Chapter 85",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/bTCJJTX/"
+         },
+         "last_updated":"1631621274"
+      },
+      "86":{
+         "title":"Chapter 86",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/F5CgJDm/"
+         },
+         "last_updated":"1631621274"
+      }
+      "87":{
+         "title":"Chapter 87",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/aNvXlbS/"
+         },
+         "last_updated":"1631621274"
+      }
+      "88":{
+         "title":"Chapter 88",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/7ytDOs4/"
+         },
+         "last_updated":"1631621274"
       }
    }
 }
