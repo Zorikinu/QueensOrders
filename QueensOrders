@@ -228,6 +228,38 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/nP7ix4z/"
          },
          "last_updated":"1632322314"
+      },
+      "93":{
+         "title":"Chapter 93",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/bHnjGWB/"
+         },
+         "last_updated":"1632322314"
+      },
+      "94":{
+         "title":"Chapter 94",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/36APmqX/"
+         },
+         "last_updated":"1632322314"
+      },
+      "95":{
+         "title":"Chapter 95",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/OTzilka/"
+         },
+         "last_updated":"1632322314"
+      },
+      "96":{
+         "title":"Chapter 96",
+         "volume":"3",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/JYXrbjm/"
+         },
+         "last_updated":"1632322314"
       }
    }
 }
