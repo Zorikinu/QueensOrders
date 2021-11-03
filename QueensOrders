@@ -468,6 +468,38 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/mmIhfnl/"
          },
          "last_updated":"1635183281"
+      },
+      "109":{
+         "title":"Chapter 109",
+         "volume":"4",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/mPQQnfg/"
+         },
+         "last_updated":"1635955390"
+      },
+      "110":{
+         "title":"Chapter 110",
+         "volume":"4",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/6aLQkd3/"
+         },
+         "last_updated":"1635955390"
+      },
+      "111":{
+         "title":"Chapter 111",
+         "volume":"4",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/WvpWmYG/"
+         },
+         "last_updated":"1635955390"
+      },
+      "112":{
+         "title":"Chapter 112",
+         "volume":"4",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/hLZaFmr/"
+         },
+         "last_updated":"1635955390"
       }
    }
 }
