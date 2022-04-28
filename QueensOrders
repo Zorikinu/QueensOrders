@@ -927,7 +927,7 @@
       },
       "161":{
          "title":"Chapter 161",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/BqWsiVg/"
          },
@@ -935,7 +935,7 @@
       },
       "162":{
          "title":"Chapter 162",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/EIydj6J/"
          },
@@ -943,7 +943,7 @@
       },
       "163":{
          "title":"Chapter 163",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/TreNnNV/"
          },
@@ -951,7 +951,7 @@
       },
       "164":{
          "title":"Chapter 164",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/tZHYJ0p/"
          },
@@ -959,7 +959,7 @@
       },
       "165":{
          "title":"Chapter 165",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/rvqce9Q/"
          },
@@ -967,7 +967,7 @@
       },
       "166":{
          "title":"Chapter 166",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/ydYeYkw/"
          },
@@ -975,7 +975,7 @@
       },
       "167":{
          "title":"Chapter 167",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/cKNGWIQ/"
          },
@@ -983,11 +983,19 @@
       },
       "168":{
          "title":"Chapter 168",
-         "volume":"5",
+         "volume":"6",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/f2trfuv/"
          },
          "last_updated":"1651071829"
+      },
+      "160.5":{
+         "title":"Chapter 160.5",
+         "volume":"5",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/TgS6irw/"
+         },
+         "last_updated":"1651159776"
       }
    }
 }
