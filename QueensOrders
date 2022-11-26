@@ -1159,7 +1159,7 @@
       },
       "189":{
          "title":"Chapter 189",
-         "volume":"6",
+         "volume":"7",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/rqmVPFO/"
          },
@@ -1167,7 +1167,7 @@
       },
       "190":{
          "title":"Chapter 190",
-         "volume":"6",
+         "volume":"7",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/JjMt5Nx/"
          },
@@ -1175,7 +1175,7 @@
       },
       "191":{
          "title":"Chapter 191",
-         "volume":"6",
+         "volume":"7",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/2wepIUH/"
          },
@@ -1183,7 +1183,7 @@
       },
       "192":{
          "title":"Chapter 192",
-         "volume":"6",
+         "volume":"7",
          "groups":{
             "Skeleton Warriors":"/proxy/api/imgur/chapter/vCccy5a/"
          },
@@ -1212,6 +1212,14 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/oz4ZuR4/"
          },
          "last_updated":"1669396794"
+      },
+      "188.5":{
+         "title":"Chapter 188.5",
+         "volume":"6",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/rp1eA1y/"
+         },
+         "last_updated":"1669490882"
       }
    }
 }
