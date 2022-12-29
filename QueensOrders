@@ -1252,6 +1252,14 @@
             "Skeleton Warriors":"/proxy/api/imgur/chapter/ZtepRUl/"
          },
          "last_updated":"1671635575"
+      },
+      "200":{
+         "title":"Chapter 200",
+         "volume":"7",
+         "groups":{
+            "Skeleton Warriors":"/proxy/api/imgur/chapter/4qllOdN/"
+         },
+         "last_updated":"1672296588"
       }
    }
 }
